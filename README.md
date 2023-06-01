@@ -1,3 +1,3 @@
 # Sample Snack app
 
-![My Image](Slika1.png)
+![My Image](screens/Slika1.png)
